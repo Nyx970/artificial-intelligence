@@ -1,3 +1,3 @@
-# artificial-intelligence
+## Artificial intelligence
 
-🤖
+
